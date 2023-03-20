@@ -1,0 +1,16 @@
+{
+  "name": "lua-console-syntax-highlighter",
+  "description": "Console syntax highlighter for Lua 5.1 and Luau.",
+  "version": "1.0.0",
+  "author": "SnowyShiro (https://github.com/SnowyShiro)",
+  "repository": "SnowyShiro/lua-console-syntax-highlighter",
+  "bugs": {
+    "url": "https://github.com/SnowyShiro/lua-console-syntax-highlighter/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "main.js"
+  ],
+  "main": "main.js",
+  "keywords": ["Lua","Lua5.1","Lua5.1.5","Luau","Syntax Highlighter","Roblox"]
+}
