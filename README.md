@@ -14,7 +14,7 @@ $ npm install lua-console-syntax-highlighter
 
 ```js
 const{highlight}=require('./main');
-// You don't have to read a file, you can also just
+
 const inp=require('fs').readFileSync('input.lua','ascii');
 
 console.log(highlight(inp,'onedarkpro'));
