@@ -26,3 +26,5 @@ console.log(highlight(inp,'monokaipro'));
 ## Themes
 * onedarkpro
 * monokaipro
+
+Huge shoutout to [BoatBomber](https://github.com/boatbomber) for the [original lexer](https://github.com/boatbomber/Highlighter).
